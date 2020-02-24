@@ -1,0 +1,95 @@
+.carousel-item{
+    padding:40px 200px;
+}
+.slide{
+    padding-bottom: 50px;
+}
+.my-btn{
+    background-color: black;
+    border: none;
+    padding: 8px 30px;
+}
+.btn-bg{
+    border: none;
+    background-color: white;
+    text-align: center;
+}
+.card{
+    text-align: center;
+    border: none;
+    box-shadow: 2px 2px 8px rgb(235, 229, 229);
+    border-radius: 10px;
+    margin: 20px;
+}
+.card img{
+    padding: 50px 20px;
+    margin: 5px;
+    width: 300px;
+    height: 350px;
+}
+.card-body{
+    padding-bottom: 50x;
+}
+.img-prb img{
+    width: 600px;
+}
+.container{
+    padding-bottom: 150px;
+}
+.title-category h1{
+    text-align: center;
+    padding-bottom: 80px;
+    font-size: 25px;
+}
+.ctg-pic img{
+    box-shadow: 5px 5px 10px rgb(235, 229, 229);
+    border-radius: 10px;
+    padding: 60px;
+    margin: 20px;
+}
+
+.title-category{
+    margin-bottom: -10px;
+    padding-bottom: 100px;
+}
+.title-category h1{
+    font-size: 15px;
+}
+.categories__title-style .first-line{
+    display: inline-block;
+    border-top: 4px solid rgb(255, 167, 53) ;
+    border-bottom: 4px solid #FF9C35;
+    padding: 0px 40px;
+    border-radius: 5px;
+    position: relative;
+  }
+
+.categories__title-style .first-line:after{
+      content: "";
+      width: 5px;
+      height: 5px;
+      display: inline-block;
+      border-radius: 50%;
+      position: absolute;
+      right: -10px;
+      top:-4px;
+    }
+
+    .img-content{
+        width:
+        
+    }
+    .img-content img{
+        width: 
+    }
+    .text-content{
+        
+        position: relative;
+        margin-top: -40%;  
+    }
+    .text-content h1{
+        text-align: center;
+        color: black;
+        font-size: 15px;
+
+    }
