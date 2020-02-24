@@ -4,15 +4,58 @@
 .slide{
     padding-bottom: 50px;
 }
+.gap-tag h1{
+    font-size: 30px;
+    padding-bottom: 18px;
+}
+.gpa-tag p{
+    font-size: 10px;
+    padding-bottom: 15px;
+}
 .my-btn{
     background-color: black;
     border: none;
     padding: 8px 30px;
+    font-size: 14px;
 }
 .btn-bg{
     border: none;
     background-color: white;
     text-align: center;
+}
+.smartphn-hd h1{
+    font-size: 30px;
+    font-weight: 700;
+}
+.smartphn-hd p{
+    font-size: 15px;
+    color: black;
+    font-weight: 400;
+}
+
+.category-header{
+    position: relative;
+    margin: 0 auto;
+    display: inline-block;   
+    padding-bottom: 1px;
+}
+.category-header::after{
+    position: absolute;
+    content: "";
+    height: 5px;
+    width: 100px;
+    background: transparent linear-gradient(142deg, #FF9C35 0%, #FFD019 100%) 0% 0% no-repeat padding-box;
+    border-radius: 10px;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.category-header h1{
+    padding-bottom: 0px;
+    font-size: 30px;
+}
+.header-solution{
+    padding-bottom: 100px;
 }
 .card{
     text-align: center;
@@ -30,66 +73,65 @@
 .card-body{
     padding-bottom: 50x;
 }
+.card-body h5{
+    font-size: 18px;
+}
+.card-body p{
+    font-size: 14px;
+}
 .img-prb img{
-    width: 600px;
+    width: 550px;
+    padding-top: 100px;
+    padding-left: 50px;
 }
 .container{
     padding-bottom: 150px;
 }
-.title-category h1{
-    text-align: center;
-    padding-bottom: 80px;
-    font-size: 25px;
+.card {
+    box-shadow: lightgrey 5px 5px 18px;
 }
-.ctg-pic img{
-    box-shadow: 5px 5px 10px rgb(235, 229, 229);
-    border-radius: 10px;
-    padding: 60px;
-    margin: 20px;
+.card-body img{
+    width: 200px;
+    height: 220px;
 }
-
-.title-category{
-    margin-bottom: -10px;
-    padding-bottom: 100px;
-}
-.title-category h1{
+.card-body h6{
+    margin-top: -30px;
     font-size: 15px;
+    font-weight: 700;
 }
-.categories__title-style .first-line{
-    display: inline-block;
-    border-top: 4px solid rgb(255, 167, 53) ;
-    border-bottom: 4px solid #FF9C35;
-    padding: 0px 40px;
-    border-radius: 5px;
-    position: relative;
-  }
+.category-bag {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 5px;
+    margin-top: 150px;
+}
+.category-beauty{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 5px;
+}
+.category-shoe{
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 5px;
+}
 
-.categories__title-style .first-line:after{
-      content: "";
-      width: 5px;
-      height: 5px;
-      display: inline-block;
-      border-radius: 50%;
-      position: absolute;
-      right: -10px;
-      top:-4px;
-    }
 
-    .img-content{
-        width:
-        
-    }
-    .img-content img{
-        width: 
-    }
-    .text-content{
-        
-        position: relative;
-        margin-top: -40%;  
-    }
-    .text-content h1{
-        text-align: center;
-        color: black;
-        font-size: 15px;
 
-    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
