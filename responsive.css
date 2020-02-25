@@ -1,0 +1,91 @@
+
+@media screen and (max-width:568px){
+
+.navbar{
+    padding-bottom: 20px;
+}
+.logo-img{
+    width: 80px;
+    height: 50px;
+}    
+.carousel-item{
+    padding:10px 20px;
+}
+.slide{
+    padding-bottom: 1px;
+}
+.gap-tag h1{
+    font-size: 18px;
+    padding-bottom: 1px;
+}
+.gap-tag p{
+    font-size: 12px;
+}
+.slider-btn{
+    padding: 5px 10px;
+}
+.banner-img{
+    width: 300px;
+    height: 350px;
+}
+
+.smartphn-hd h1{
+    font-size: 20px;
+}
+.smartphn-hd p{
+    font-size: 10px;
+}
+.card img{
+    padding: 20px 10px;
+    margin: 5px;
+    width: 200px;
+    height: 200px;
+}
+.card p{
+    font-size: 10px;
+}
+.card h5{
+    font-size: 15px;
+}
+.my-btn{
+    padding: 8px 18px;
+    font-size: 10px;
+}
+.smartphone{
+    padding-bottom: 20px;
+}
+.header-solution{
+    margin-bottom: 40px;
+}
+
+.category-header h1{
+    font-size:20px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.header-solution{
+    padding: 0;
+}
+.card-body img{
+    width: 100px;
+    height: 120px;
+}
+.card-body h6{
+    margin-top: -10px;
+    font-size: 10px;
+    font-weight: 700;
+}
+.category-bag{
+    margin: 15px;
+}
+.category-banner-img img{
+    width: 300px;
+    height: 350px;
+    padding: 10px 20px 5px 20px;
+    
+}
+.social-area{
+    padding-bottom: 400px;
+}
+
+}
